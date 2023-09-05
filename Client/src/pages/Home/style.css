@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+}
+
+.banner {
+    width: 100%;
+}
+
+.banner_img {
+    width: 100%;
+
+}
+
+.banner_img img {
+    width: 100%;
+}

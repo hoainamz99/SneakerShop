@@ -1,0 +1,38 @@
+.bg_breadcrumb {
+    background-image: url(../bg_breadcrumb/bg_breadcrumb.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    float: left;
+    padding: 60px 0px 60px 0px;
+    height: 100%;
+    margin-bottom: 50px;
+    color: #fff;
+}
+
+.title_full {
+    width: 100%;
+    float: left;
+    text-align: left
+}
+
+.container_title {
+    text-align: center;
+}
+
+.title_full .title_page {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 50px;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.title_page {
+    font-size: 16px;
+}
+
+.title_page span {
+    font-size: 16px;
+    color: brown;
+}
